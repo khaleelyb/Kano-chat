@@ -1,0 +1,5 @@
+{
+  "name": "Kano Chat",
+  "description": "A real-time chat application with a 24-hour marketplace, user directory, and image sharing capabilities. Users can create accounts, chat one-on-one, and list items for sale that expire automatically.",
+  "requestFramePermissions": []
+}
